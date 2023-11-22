@@ -1,0 +1,13 @@
+[ True  True  True ...  True  True  True]
+[ True  True  True ...  True  True  True]0        101763
+1        101764
+2        101765
+3        101766
+4        101767
+          ...  
+67837    169600
+67838    169601
+67839    169602
+67840    169603
+67841    169604
+Name: id, Length: 67842, dtype: int64 [ True  True  True ...  True  True  True]
